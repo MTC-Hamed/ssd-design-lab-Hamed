@@ -9,3 +9,4 @@ Traceability mini-checklist:
 • Each use case can be mapped to at least one class responsibility.
 3
 • If you mention a “Register Course” flow, you have a class that performs that responsibility
+-
