@@ -1,2 +1,3 @@
 ## v0.1 – Initial design docs
-- Added UML and Class design
+- Added UC and Class design
+## v0.2 – Added prerequisite check use case
